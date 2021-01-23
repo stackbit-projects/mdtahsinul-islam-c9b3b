@@ -6,9 +6,7 @@ sections:
   template: section_hero
   title: Hi, I'm Tahsin.
   section_id: hero
-  content: "![](/images/97460372_372056510426185_14806401536753664_n-2.jpg)This section
-    can contain a subtitle or tagline. The recommended length is one to three sentences,
-    but can be changed as you prefer."
+  content: "![](/images/97460372_372056510426185_14806401536753664_n-2.jpg)"
   actions: []
 - type: section_content
   template: section_content
@@ -43,6 +41,14 @@ sections:
     icon_class: ''
     new_window: false
     no_follow: false
+- template: section_content
+  type: section_content
+  title: ''
+  section_id: ''
+  image: ''
+  image_alt: ''
+  content: ''
+  actions: []
 template: advanced
 excerpt: ''
 
